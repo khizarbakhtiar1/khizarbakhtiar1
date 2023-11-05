@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development & Generative AI**
 
-  <img align="right" alt="Coding" width="390" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif "/>
+  <img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif "/>
 
 
 - 💬 Ask me about **React, Next.js, Javascript, Typescript and Blockchain**
