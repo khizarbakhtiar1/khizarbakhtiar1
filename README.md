@@ -1,15 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGhNOVCXfsbwg/profile-displaybackgroundimage-shrink_350_1400/0/1688505525625?e=1704931200&v=beta&t=x2lTWHXQeqB9hphijgTdDvCh2MHD41qaaqC0WarV7OA)](https://rishavchanda.io)
 <h1 align="center">Hey There 👋, Myself Khizar Bakhtiar</h1>
-<h3 align="center">A Blockchain Coach & Passionate Developer From Pakistan</h3>
-
-- 🌱 Always bullish on Blockchain Technology for life, I live and for Web3.
 
   <img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif "/>
-
-
-- 💬 Ask me anything about **React, Next.js, Javascript, Typescript, Solidity and Blockchain**
-
-- 📫 Reach me at **khizarbakhtiar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
